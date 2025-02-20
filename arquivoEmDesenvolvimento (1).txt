@@ -1,0 +1,37 @@
+GOLPES NA INTERNET 
+
+2.1 Furto de Identidade (Identity Thefty)
+>> Ato pelo qual uma pessoa tenta se passar por outra atribuindose uma falsa identidade, com o objetivo de obter 
+vantagens indevidas. Alguns casos defurto de identidade podem ser considerados como crime contra a fe pública,
+tipificados como falsa identidade.
+Caso alguém crie um perfil em seu nome em uma rede social, acesse sua conta de e-mail e envie mensagens
+se passando por voce ou falsifique os campos de e-mail, fazendo parecer que ele foi enviado por você.
+Quanto mais informações você disponibiliza sobre a sua vida e rotina, mais fácil se torna para
+um golpista furtar a sua identidade, pois mais dados ele tem dispon´ıveis e mais convincente ele pode
+ser. Alem disto, o golpista pode usar outros tipos de golpes e ataques para coletar informações sobre
+você, inclusive suas senhas, como códigos maliciosos.
+
+2.2 Fraude de antecipac¸ao de recursos (Advance fee fraud)
+>>A fraude de antecipação de recursos, ou advance fee fraud, e aquela na qual um golpista procura
+induzir uma pessoa a fornecer informac¸oes confidenciais ou a realizar um pagamento adiantado, com
+a promessa de futuramente receber algum tipo de benefício.
+Por meio do recebimento de mensagens eletronicas ou do acesso a sites fraudulentos, a pessoa
+e envolvida em alguma situação ou história mirabolante, que justifique a necessidade de envio de
+informações pessoais ou a realização de algum pagamento adiantado, para a obtenção de um benefício futuro. 
+Após fornecer os recursos solicitados a pessoa percebe que o tal benefício prometido não
+existe, constata que foi vítima de um golpe e que seus dados/dinheiro estao em posse de golpistas.
+
+
+ATAQUES NA INTERNET
+>>Costumam ocorrer na Internet com diversos objetivos, visando diferentes alvos e usando variadas técnicas.
+
+Motivos:
+- Demonstração de poder
+-Prestígio
+-Motivação financeira, ideológica ou comercial
+
+Vulnerabilidade
+>>Uma vulnerabilidade é definida como uma condição que, quando explorada por um atacante pode resultar em uma violação de segurança. Exemplos de vulnerabilidade são falhas no projeto, na implementação ou na configuração de programas, serviços ou equipamentos de rede.
+
+
+
