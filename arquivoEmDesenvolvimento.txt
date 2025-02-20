@@ -21,3 +21,10 @@ informações pessoais ou a realização de algum pagamento adiantado, para a ob
 Após fornecer os recursos solicitados a pessoa percebe que o tal benefício prometido não
 existe, constata que foi v´ıtima de um golpe e que seus dados/dinheiro estao em posse de golpistas.
 
+2.3 Phishing 
+>> Tipo de fraude por meio da qual um golpista tenta obter dados pessoais e financeiros de um usuário pela utilização combinada de meios técnicos de engenharia social.
+
+
+2.3 Phishing 
+
+
